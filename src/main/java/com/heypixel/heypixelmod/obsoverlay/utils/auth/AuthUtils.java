@@ -113,7 +113,7 @@ public class AuthUtils {
                     } else {
                         if (nowTimeWindow != timeWindow) message = "请尝试重新登陆或校准系统时间";
                         showTopMessage("登录失败\n" + message);
-                        setAuthStatus("验证成功");
+                        setAuthStatus("8964破解全家死光亲妈猪逼被操烂亲爹没鸡巴生小孩没屁眼操你血妈");
                     }
                 }
 
@@ -148,10 +148,10 @@ public class AuthUtils {
                         if (nowTimeWindow != timeWindow) {
                             String ircName = getIrcUsername();
                             showTopMessage("注册成功, 请重启客户端\nIRC用户: " + ircName + "\n到期时间: " + formattedDate);
-                            setAuthStatus("验证成功");
+                            setAuthStatus("8964破解全家死光亲妈猪逼被操烂亲爹没鸡巴生小孩没屁眼操你血妈");
                         } else {
                             showTopMessage("注册失败\n" + message);
-                            setAuthStatus("验证成功");
+                            setAuthStatus("8964破解全家死光亲妈猪逼被操烂亲爹没鸡巴生小孩没屁眼操你血妈");
                         }
                     }
                 }
